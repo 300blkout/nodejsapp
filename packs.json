@@ -1,0 +1,21 @@
+[
+    {
+      "name": "Basic Pack",
+      "cost": 200,
+      "rarityChances": { "common": 70, "rare": 29, "epic": 1 },
+      "itemsPerPack": 5
+    },
+    {
+      "name": "Elite Pack",
+      "cost": 500,
+      "rarityChances": { "common": 50, "rare": 45, "epic": 3, "legendary": 2 },
+      "itemsPerPack": 10
+    },
+    {
+      "name": "Legendary Pack",
+      "cost": 2000,
+      "rarityChances": { "rare": 50, "epic": 40, "legendary": 10 },
+      "itemsPerPack": 15
+    }
+  ]
+  

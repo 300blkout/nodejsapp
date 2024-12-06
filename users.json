@@ -1,0 +1,796 @@
+{
+  "JoeBiden": {
+    "password": "$2b$10$1WS3FKuJPrGKWIgargRznOhy0kY.IixwJua7xbFo8xsZ5iY9rOoQW",
+    "coins": 153,
+    "inventory": {
+      "packs": [],
+      "cards": [
+        {
+          "name": "Kelli Zimmerman",
+          "role": "Teacher - Family Consumer Sciences",
+          "rarity": "rare"
+        },
+        {
+          "name": "Kelli Zimmerman",
+          "role": "Teacher - Family Consumer Sciences",
+          "rarity": "epic"
+        },
+        {
+          "name": "Aaron Wagoner",
+          "role": "Teacher - Freshman Seminar",
+          "rarity": "common"
+        },
+        {
+          "name": "Jennifer Vorderstrasse",
+          "role": "Paraeducator - Media",
+          "rarity": "common"
+        },
+        {
+          "name": "Angela Wagoner",
+          "role": "Teacher - Spanish",
+          "rarity": "rare"
+        },
+        {
+          "name": "Natalie Brainard",
+          "role": "Coach - Softball",
+          "rarity": "rare"
+        },
+        {
+          "name": "Diane Velder",
+          "role": "Food Service",
+          "rarity": "rare"
+        },
+        {
+          "name": "Derek Spence",
+          "role": "Coach - Soccer, Boys, Head",
+          "rarity": "common"
+        },
+        {
+          "name": "Kyleigh Williams",
+          "role": "Registrar",
+          "rarity": "common"
+        },
+        {
+          "name": "Julie Foster",
+          "role": "Coach - Golf, Girls",
+          "rarity": "common"
+        },
+        {
+          "name": "Elizabeth Woita",
+          "role": "Teacher - Math",
+          "rarity": "common"
+        },
+        {
+          "name": "Alex Wooten",
+          "role": "Teacher - Vocal Music Director",
+          "rarity": "common"
+        },
+        {
+          "name": "Angela Wagoner",
+          "role": "Teacher - Spanish",
+          "rarity": "common"
+        },
+        {
+          "name": "Kyleigh Williams",
+          "role": "Registrar",
+          "rarity": "common"
+        },
+        {
+          "name": "Elizabeth Woita",
+          "role": "Teacher - Math",
+          "rarity": "common"
+        },
+        {
+          "name": "Elizabeth Woita",
+          "role": "Teacher - Math",
+          "rarity": "rare"
+        },
+        {
+          "name": "Alyssa McClellen",
+          "role": "Coach - Track and Field, Girls",
+          "rarity": "common"
+        },
+        {
+          "name": "Julie Foster",
+          "role": "Coach - Golf, Girls",
+          "rarity": "common"
+        },
+        {
+          "name": "Casey Vigor",
+          "role": "Coach - Wrestling, Boys",
+          "rarity": "common"
+        },
+        {
+          "name": "Alyssa McClellen",
+          "role": "Coach - Track and Field, Girls",
+          "rarity": "common"
+        },
+        {
+          "name": "Jessica McDowell",
+          "role": "Coach - Track and Field, Girls",
+          "rarity": "rare"
+        },
+        {
+          "name": "Kelli Zimmerman",
+          "role": "Teacher - Family Consumer Sciences",
+          "rarity": "common"
+        },
+        {
+          "name": "Makayla Tepe",
+          "role": "Teacher - Strength & Conditioning",
+          "rarity": "common"
+        },
+        {
+          "name": "Jeff Steele",
+          "role": "Coach - Wrestling, Girls, Head",
+          "rarity": "rare"
+        },
+        {
+          "name": "William Raftery",
+          "role": "Coach - Baseball, Head",
+          "rarity": "rare"
+        },
+        {
+          "name": "JL Vertin",
+          "role": "Coach - Basketball, Girls",
+          "rarity": "legendary"
+        },
+        {
+          "name": "Jacob Hughes",
+          "role": "Coach - Football",
+          "rarity": "rare"
+        },
+        {
+          "name": "Aaron Wagoner",
+          "role": "Teacher - Freshman Seminar",
+          "rarity": "legendary"
+        },
+        {
+          "name": "Jennene Anderson",
+          "role": "Instrumental Music Assistant",
+          "rarity": "common"
+        },
+        {
+          "name": "Jeff Steele",
+          "role": "Coach - Wrestling, Girls, Head",
+          "rarity": "rare"
+        },
+        {
+          "name": "Makayla Tepe",
+          "role": "Teacher - Strength & Conditioning",
+          "rarity": "rare"
+        },
+        {
+          "name": "Kelli Zimmerman",
+          "role": "Teacher - Family Consumer Sciences",
+          "rarity": "common"
+        },
+        {
+          "name": "Natalie Brainard",
+          "role": "Coach - Softball",
+          "rarity": "common"
+        },
+        {
+          "name": "Derek Spence",
+          "role": "Coach - Soccer, Boys, Head",
+          "rarity": "common"
+        },
+        {
+          "name": "Jessica McDowell",
+          "role": "Coach - Track and Field, Girls",
+          "rarity": "rare"
+        },
+        {
+          "name": "Kelli Zimmerman",
+          "role": "Teacher - Family Consumer Sciences",
+          "rarity": "common"
+        },
+        {
+          "name": "Jessica McDowell",
+          "role": "Coach - Track and Field, Girls",
+          "rarity": "common"
+        },
+        {
+          "name": "Jeff Steele",
+          "role": "Coach - Wrestling, Girls, Head",
+          "rarity": "common"
+        },
+        {
+          "name": "Elizabeth Woita",
+          "role": "Teacher - Math",
+          "rarity": "common"
+        },
+        {
+          "name": "Aaron Wagoner",
+          "role": "Teacher - Freshman Seminar",
+          "rarity": "common"
+        },
+        {
+          "name": "Jeff Steele",
+          "role": "Coach - Wrestling, Girls, Head",
+          "rarity": "common"
+        },
+        {
+          "name": "Elizabeth Woita",
+          "role": "Teacher - Math",
+          "rarity": "common"
+        },
+        {
+          "name": "Jeff Steele",
+          "role": "Coach - Wrestling, Girls, Head",
+          "rarity": "common"
+        },
+        {
+          "name": "Makayla Tepe",
+          "role": "Teacher - Strength & Conditioning",
+          "rarity": "common"
+        },
+        {
+          "name": "Jennifer Vorderstrasse",
+          "role": "Paraeducator - Media",
+          "rarity": "common"
+        },
+        {
+          "name": "Jessica McDowell",
+          "role": "Coach - Track and Field, Girls",
+          "rarity": "rare"
+        },
+        {
+          "name": "Alex Wooten",
+          "role": "Teacher - Vocal Music Director",
+          "rarity": "common"
+        },
+        {
+          "name": "Jeff Steele",
+          "role": "Coach - Wrestling, Girls, Head",
+          "rarity": "common"
+        },
+        {
+          "name": "Jennene Anderson",
+          "role": "Instrumental Music Assistant",
+          "rarity": "common"
+        },
+        {
+          "name": "Alyssa McClellen",
+          "role": "Coach - Track and Field, Girls",
+          "rarity": "common"
+        },
+        {
+          "name": "Aaron Wagoner",
+          "role": "Teacher - Freshman Seminar",
+          "rarity": "rare"
+        },
+        {
+          "name": "Elizabeth Woita",
+          "role": "Teacher - Math",
+          "rarity": "common"
+        },
+        {
+          "name": "Derek Spence",
+          "role": "Coach - Soccer, Boys, Head",
+          "rarity": "common"
+        },
+        {
+          "name": "Jacob Hughes",
+          "role": "Coach - Football",
+          "rarity": "common"
+        },
+        {
+          "name": "William Raftery",
+          "role": "Coach - Baseball, Head",
+          "rarity": "common"
+        },
+        {
+          "name": "Kelli Zimmerman",
+          "role": "Teacher - Family Consumer Sciences",
+          "rarity": "common"
+        },
+        {
+          "name": "Jacob Hughes",
+          "role": "Coach - Football",
+          "rarity": "common"
+        },
+        {
+          "name": "Julie Foster",
+          "role": "Coach - Golf, Girls",
+          "rarity": "common"
+        },
+        {
+          "name": "Makayla Tepe",
+          "role": "Teacher - Strength & Conditioning",
+          "rarity": "common"
+        },
+        {
+          "name": "Jennene Anderson",
+          "role": "Instrumental Music Assistant",
+          "rarity": "common"
+        },
+        {
+          "name": "Kyleigh Williams",
+          "role": "Registrar",
+          "rarity": "rare"
+        },
+        {
+          "name": "Natalie Brainard",
+          "role": "Coach - Softball",
+          "rarity": "common"
+        },
+        {
+          "name": "Makayla Tepe",
+          "role": "Teacher - Strength & Conditioning",
+          "rarity": "rare"
+        },
+        {
+          "name": "Kyleigh Williams",
+          "role": "Registrar",
+          "rarity": "epic"
+        },
+        {
+          "name": "Jessica McDowell",
+          "role": "Coach - Track and Field, Girls",
+          "rarity": "rare"
+        },
+        {
+          "name": "Diane Velder",
+          "role": "Food Service",
+          "rarity": "common"
+        },
+        {
+          "name": "Jennifer Vorderstrasse",
+          "role": "Paraeducator - Media",
+          "rarity": "common"
+        },
+        {
+          "name": "Jacob Hughes",
+          "role": "Coach - Football",
+          "rarity": "epic"
+        },
+        {
+          "name": "Kelli Zimmerman",
+          "role": "Teacher - Family Consumer Sciences",
+          "rarity": "common"
+        },
+        {
+          "name": "Elizabeth Woita",
+          "role": "Teacher - Math",
+          "rarity": "common"
+        },
+        {
+          "name": "Aaron Wagoner",
+          "role": "Teacher - Freshman Seminar",
+          "rarity": "rare"
+        },
+        {
+          "name": "Casey Vigor",
+          "role": "Coach - Wrestling, Boys",
+          "rarity": "epic"
+        },
+        {
+          "name": "Jacob Hughes",
+          "role": "Coach - Football",
+          "rarity": "epic"
+        },
+        {
+          "name": "Casey Vigor",
+          "role": "Coach - Wrestling, Boys",
+          "rarity": "epic"
+        },
+        {
+          "name": "Makayla Tepe",
+          "role": "Teacher - Strength & Conditioning",
+          "rarity": "epic"
+        },
+        {
+          "name": "JL Vertin",
+          "role": "Coach - Basketball, Girls",
+          "rarity": "rare"
+        },
+        {
+          "name": "Aaron Wagoner",
+          "role": "Teacher - Freshman Seminar",
+          "rarity": "rare"
+        },
+        {
+          "name": "Julie Foster",
+          "role": "Coach - Golf, Girls",
+          "rarity": "rare"
+        },
+        {
+          "name": "William Raftery",
+          "role": "Coach - Baseball, Head",
+          "rarity": "legendary"
+        },
+        {
+          "name": "Makayla Tepe",
+          "role": "Teacher - Strength & Conditioning",
+          "rarity": "legendary"
+        },
+        {
+          "name": "Jessica McDowell",
+          "role": "Coach - Track and Field, Girls",
+          "rarity": "rare"
+        },
+        {
+          "name": "Derek Spence",
+          "role": "Coach - Soccer, Boys, Head",
+          "rarity": "legendary"
+        },
+        {
+          "name": "Jessica McDowell",
+          "role": "Coach - Track and Field, Girls",
+          "rarity": "epic"
+        },
+        {
+          "name": "Kelli Zimmerman",
+          "role": "Teacher - Family Consumer Sciences",
+          "rarity": "legendary"
+        },
+        {
+          "name": "Aaron Wagoner",
+          "role": "Teacher - Freshman Seminar",
+          "rarity": "legendary"
+        },
+        {
+          "name": "Alex Wooten",
+          "role": "Teacher - Vocal Music Director",
+          "rarity": "common"
+        },
+        {
+          "name": "Natalie Brainard",
+          "role": "Coach - Softball",
+          "rarity": "common"
+        },
+        {
+          "name": "Jessica McDowell",
+          "role": "Coach - Track and Field, Girls",
+          "rarity": "common"
+        },
+        {
+          "name": "Jacob Hughes",
+          "role": "Coach - Football",
+          "rarity": "rare"
+        },
+        {
+          "name": "Casey Vigor",
+          "role": "Coach - Wrestling, Boys",
+          "rarity": "common"
+        },
+        {
+          "name": "Jennene Anderson",
+          "role": "Instrumental Music Assistant",
+          "rarity": "epic"
+        },
+        {
+          "name": "JL Vertin",
+          "role": "Coach - Basketball, Girls",
+          "rarity": "common"
+        },
+        {
+          "name": "Jennene Anderson",
+          "role": "Instrumental Music Assistant",
+          "rarity": "common"
+        },
+        {
+          "name": "Diane Velder",
+          "role": "Food Service",
+          "rarity": "rare"
+        },
+        {
+          "name": "Alex Wooten",
+          "role": "Teacher - Vocal Music Director",
+          "rarity": "common"
+        },
+        {
+          "name": "Jeff Steele",
+          "role": "Coach - Wrestling, Girls, Head",
+          "rarity": "epic"
+        },
+        {
+          "name": "Diane Velder",
+          "role": "Food Service",
+          "rarity": "common"
+        },
+        {
+          "name": "Jennifer Vorderstrasse",
+          "role": "Paraeducator - Media",
+          "rarity": "common"
+        },
+        {
+          "name": "JL Vertin",
+          "role": "Coach - Basketball, Girls",
+          "rarity": "rare"
+        },
+        {
+          "name": "Jessica McDowell",
+          "role": "Coach - Track and Field, Girls",
+          "rarity": "common"
+        },
+        {
+          "name": "Casey Vigor",
+          "role": "Coach - Wrestling, Boys",
+          "rarity": "common"
+        },
+        {
+          "name": "JL Vertin",
+          "role": "Coach - Basketball, Girls",
+          "rarity": "common"
+        },
+        {
+          "name": "Jacob Hughes",
+          "role": "Coach - Football",
+          "rarity": "common"
+        },
+        {
+          "name": "Jessica McDowell",
+          "role": "Coach - Track and Field, Girls",
+          "rarity": "common"
+        },
+        {
+          "name": "Jessica McDowell",
+          "role": "Coach - Track and Field, Girls",
+          "rarity": "common"
+        },
+        {
+          "name": "Alyssa McClellen",
+          "role": "Coach - Track and Field, Girls",
+          "rarity": "common"
+        },
+        {
+          "name": "Jacob Hughes",
+          "role": "Coach - Football",
+          "rarity": "common"
+        },
+        {
+          "name": "Alyssa McClellen",
+          "role": "Coach - Track and Field, Girls",
+          "rarity": "rare"
+        },
+        {
+          "name": "Diane Velder",
+          "role": "Food Service",
+          "rarity": "common"
+        },
+        {
+          "name": "Natalie Brainard",
+          "role": "Coach - Softball",
+          "rarity": "common"
+        },
+        {
+          "name": "Makayla Tepe",
+          "role": "Teacher - Strength & Conditioning",
+          "rarity": "common"
+        },
+        {
+          "name": "Jennifer Vorderstrasse",
+          "role": "Paraeducator - Media",
+          "rarity": "rare"
+        },
+        {
+          "name": "Jeff Steele",
+          "role": "Coach - Wrestling, Girls, Head",
+          "rarity": "common"
+        },
+        {
+          "name": "Kelli Zimmerman",
+          "role": "Teacher - Family Consumer Sciences",
+          "rarity": "common"
+        },
+        {
+          "name": "Julie Foster",
+          "role": "Coach - Golf, Girls",
+          "rarity": "common"
+        },
+        {
+          "name": "Jacob Hughes",
+          "role": "Coach - Football",
+          "rarity": "common"
+        },
+        {
+          "name": "Natalie Brainard",
+          "role": "Coach - Softball",
+          "rarity": "common"
+        },
+        {
+          "name": "Kyleigh Williams",
+          "role": "Registrar",
+          "rarity": "rare"
+        },
+        {
+          "name": "Jeff Steele",
+          "role": "Coach - Wrestling, Girls, Head",
+          "rarity": "common"
+        },
+        {
+          "name": "Diane Velder",
+          "role": "Food Service",
+          "rarity": "rare"
+        },
+        {
+          "name": "Jacob Hughes",
+          "role": "Coach - Football",
+          "rarity": "common"
+        },
+        {
+          "name": "Jennifer Vorderstrasse",
+          "role": "Paraeducator - Media",
+          "rarity": "common"
+        },
+        {
+          "name": "Jennifer Vorderstrasse",
+          "role": "Paraeducator - Media",
+          "rarity": "common"
+        },
+        {
+          "name": "William Raftery",
+          "role": "Coach - Baseball, Head",
+          "rarity": "common"
+        },
+        {
+          "name": "Kyleigh Williams",
+          "role": "Registrar",
+          "rarity": "rare"
+        },
+        {
+          "name": "Jennene Anderson",
+          "role": "Instrumental Music Assistant",
+          "rarity": "common"
+        },
+        {
+          "name": "Alex Wooten",
+          "role": "Teacher - Vocal Music Director",
+          "rarity": "common"
+        },
+        {
+          "name": "Elizabeth Woita",
+          "role": "Teacher - Math",
+          "rarity": "common"
+        },
+        {
+          "name": "Jennifer Vorderstrasse",
+          "role": "Paraeducator - Media",
+          "rarity": "common"
+        },
+        {
+          "name": "Aaron Wagoner",
+          "role": "Teacher - Freshman Seminar",
+          "rarity": "common"
+        },
+        {
+          "name": "JL Vertin",
+          "role": "Coach - Basketball, Girls",
+          "rarity": "common"
+        },
+        {
+          "name": "Natalie Brainard",
+          "role": "Coach - Softball",
+          "rarity": "common"
+        },
+        {
+          "name": "Julie Foster",
+          "role": "Coach - Golf, Girls",
+          "rarity": "rare"
+        },
+        {
+          "name": "Kyleigh Williams",
+          "role": "Registrar",
+          "rarity": "common"
+        },
+        {
+          "name": "Aaron Wagoner",
+          "role": "Teacher - Freshman Seminar",
+          "rarity": "common"
+        },
+        {
+          "name": "Aaron Wagoner",
+          "role": "Teacher - Freshman Seminar",
+          "rarity": "common"
+        },
+        {
+          "name": "Alex Wooten",
+          "role": "Teacher - Vocal Music Director",
+          "rarity": "rare"
+        },
+        {
+          "name": "Angela Wagoner",
+          "role": "Teacher - Spanish",
+          "rarity": "epic"
+        },
+        {
+          "name": "Casey Vigor",
+          "role": "Coach - Wrestling, Boys",
+          "rarity": "rare"
+        },
+        {
+          "name": "JL Vertin",
+          "role": "Coach - Basketball, Girls",
+          "rarity": "common"
+        },
+        {
+          "name": "Angela Wagoner",
+          "role": "Teacher - Spanish",
+          "rarity": "rare"
+        },
+        {
+          "name": "Julie Foster",
+          "role": "Coach - Golf, Girls",
+          "rarity": "rare"
+        },
+        {
+          "name": "Derek Spence",
+          "role": "Coach - Soccer, Boys, Head",
+          "rarity": "common"
+        },
+        {
+          "name": "Diane Velder",
+          "role": "Food Service",
+          "rarity": "common"
+        },
+        {
+          "name": "JL Vertin",
+          "role": "Coach - Basketball, Girls",
+          "rarity": "common"
+        },
+        {
+          "name": "Jessica McDowell",
+          "role": "Coach - Track and Field, Girls",
+          "rarity": "rare"
+        },
+        {
+          "name": "Alex Wooten",
+          "role": "Teacher - Vocal Music Director",
+          "rarity": "common"
+        },
+        {
+          "name": "Angela Wagoner",
+          "role": "Teacher - Spanish",
+          "rarity": "rare"
+        },
+        {
+          "name": "Angela Wagoner",
+          "role": "Teacher - Spanish",
+          "rarity": "common"
+        },
+        {
+          "name": "JL Vertin",
+          "role": "Coach - Basketball, Girls",
+          "rarity": "common"
+        },
+        {
+          "name": "Jessica McDowell",
+          "role": "Coach - Track and Field, Girls",
+          "rarity": "common"
+        },
+        {
+          "name": "William Raftery",
+          "role": "Coach - Baseball, Head",
+          "rarity": "common"
+        },
+        {
+          "name": "Angela Wagoner",
+          "role": "Teacher - Spanish",
+          "rarity": "common"
+        },
+        {
+          "name": "Jessica McDowell",
+          "role": "Coach - Track and Field, Girls",
+          "rarity": "common"
+        },
+        {
+          "name": "Julie Foster",
+          "role": "Coach - Golf, Girls",
+          "rarity": "rare"
+        }
+      ],
+      "futureItems": {}
+    }
+  },
+  "monroe": {
+    "password": "$2b$10$k2ltMKnEivEzTwe/3uhbju5XUu9nDwpKrE9DPhgEYLVfVeyk3.NSC",
+    "coins": 103,
+    "inventory": {
+      "packs": [],
+      "cards": [],
+      "futureItems": {}
+    }
+  }
+}
